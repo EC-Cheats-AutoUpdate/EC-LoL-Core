@@ -1,0 +1,12 @@
+[
+    {
+        "Name": "Plugins.txt",
+        "Hash": 1278037829,
+		"Url": "https://raw.githubusercontent.com/EC-Scripts/AutoUpdate/master/Files/Plugins.txt"
+    },
+    {
+        "Name": "EC-Lib.bin",
+        "Hash": 481799108,
+		"Url": "https://raw.githubusercontent.com/EC-Scripts/AutoUpdate/master/Files/EC-Lib/1.0.bin"
+    }
+]
